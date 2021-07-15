@@ -11,6 +11,9 @@ const routes = [
     components: {
       default: () => import('../components/Navigation.vue'), 
       a: Home,
+    },
+    meta: {
+      title: 'Elisabeth Vonesch',
     }
   },
   {
