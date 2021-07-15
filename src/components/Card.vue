@@ -1,7 +1,7 @@
 <template>
   <div class='card'>
     <img v-bind:src="getImgUrl(image)"  v-bind:alt="image" width="250" height="250"/> 
-    <p>{{ title }}</p>
+    <p class='title'>{{ title }}</p>
   </div>
 </template>
 
@@ -18,6 +18,9 @@
 </script>
 
 <style scoped>
+.title {
+  text-decoration: none;
+}
 .card {
   height: 300px;
   padding: 10px;

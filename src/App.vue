@@ -1,15 +1,18 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link> |
-      <router-link to="/cv">CV</router-link> |
-      <router-link to="/contact">Contact</router-link> |
-      <router-link to="/miscellaneous">Miscellaneous</router-link>
+    <div class='container'>
+      <router-view/>
+      <router-view name="a"></router-view>
     </div>
-    <router-view/>
   </div>
 </template>
+
+<script>
+
+export default {
+  name: 'App',
+}
+</script>
 
 <style>
 #app {
@@ -18,18 +21,43 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  padding: 0 30px 30px 30px;
 }
 
 #nav {
-  padding: 30px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 #nav a {
-  font-weight: bold;
+  /* font-weight: bold; */
   color: #2c3e50;
+  text-decoration: none;
 }
 
 #nav a.router-link-exact-active {
-  color: #42b983;
+  color: #4c81c3;
+}
+
+h1 {
+  padding: 30px 20px;
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.container {
+  display: grid; 
+  grid-template-columns: 300px 1fr; 
+  grid-template-rows: 1fr; 
+  gap: 20px; 
+  grid-template-areas: 
+    "nav content";
+  justify-content: start;
 }
 </style>

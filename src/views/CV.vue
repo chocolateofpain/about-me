@@ -1,23 +1,23 @@
 <template>
-  <div>
+  <div class='cv-container'>
     <h1>CV</h1>
-    <h3>Experience</h3>
-    <h4>{{ sauceLabsJunior.company }}</h4>
-    <p>{{ sauceLabsJunior.title }}</p>
-    <p>{{ sauceLabsJunior.timeRange }}</p>
-    <ul>
+    <h3 class='cv-section'>Experience</h3>
+    <h4 class='company'>{{ sauceLabsJunior.company }}</h4>
+    <p class='role-title'>{{ sauceLabsJunior.title }}</p>
+    <p class='time-range'>{{ sauceLabsJunior.timeRange }}</p>
+    <ul class='section-gap'>
       <li v-for="(item, index) in sauceLabsJunior.experience" :key='index' >{{ item }}</li>
     </ul>
-    <h4>{{ sauceLabsIntern.company }}</h4>
-    <p>{{ sauceLabsIntern.title }}</p>
-    <p>{{ sauceLabsIntern.timeRange }}</p>
+    <h4 class='company'>{{ sauceLabsIntern.company }}</h4>
+    <p class='role-title'>{{ sauceLabsIntern.title }}</p>
+    <p class='time-range'>{{ sauceLabsIntern.timeRange }}</p>
     <ul>
       <li v-for="(item, index) in sauceLabsIntern.experience" :key='index' >{{ item }}</li>
     </ul>
-     <h3>Education</h3>
-    <h4>{{ dciTraining.company }}</h4>
-    <p>{{ dciTraining.title }}</p>
-    <p>{{ dciTraining.timeRange }}</p>
+     <h3 class='education cv-section'>Education</h3>
+    <h4 class='company'>{{ dciTraining.company }}</h4>
+    <p class='role-title'>{{ dciTraining.title }}</p>
+    <p class='time-range'>{{ dciTraining.timeRange }}</p>
     <p>Studied web development during 11 months course which covered:</p>
     <ul>
       <li v-for="(item, index) in dciTraining.experience" :key='index' >{{ item }}</li>
@@ -38,8 +38,38 @@ export default {
 
 <style scoped>
 ul {
-  list-style-type: none;
+  list-style-type: circle;
   margin: 0;
   padding: 0;
+}
+.cv-container {
+  text-align: start;
+}
+.education {
+  margin-top: 40px;
+}
+.time-range {
+  font-size: 0.8rem;
+  margin-top: 4px;
+}
+.role-title {
+  margin: 8px 0;
+  font-weight: 500;
+}
+.company {
+  margin: 20px 0 8px 0;
+  font-weight: 600;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  font-size: 1.1rem;
+}
+.cv-section {
+  font-size: 1.3rem;
+}
+.section-gap {
+  margin-bottom: 40px;
 }
 </style>

@@ -8,7 +8,10 @@ const routes = [
   {
     path: '/',
     name: 'Home',
-    component: Home
+    components: {
+      default: () => import('../components/Navigation.vue'), 
+      a: Home,
+    }
   },
   {
     path: '/about',
@@ -16,23 +19,35 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    components: {
+      default: () => import('../components/Navigation.vue'), 
+      a: () => import('../views/About.vue')
+    }
   },
   {
     path: '/cv',
     name: 'CV',
-    component: () => import(/* webpackChunkName: "cv" */ '../views/CV.vue')
+    components: {
+      default: () => import('../components/Navigation.vue'), 
+      a: () => import('../views/CV.vue')
+    }
   },
   {
     path: '/contact',
     name: 'Contact',
-    component: () => import(/* webpackChunkName: "contact" */ '../views/Contact.vue')
+    components: {
+      default: () => import('../components/Navigation.vue'),
+      a: () => import('../views/Contact.vue')
+    }
   },
   {
     path: '/miscellaneous',
     name: 'Miscellaneous',
-    component: () => import(/* webpackChunkName: "miscellaneous" */ '../views/Miscellaneous.vue')
-  }
+    components: {
+      default: () => import('../components/Navigation.vue'), 
+      a: () => import('../views/Miscellaneous.vue')
+    }
+  },
 ]
 
 const router = new VueRouter({

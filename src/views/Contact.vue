@@ -1,8 +1,8 @@
 <template>
   <div>
+    <h1>Contact</h1>
     <p>vonesch.elisabeth@gmail.com</p>
-    <p>LinkedIn</p>
-    <p>Github</p>
+    <a href='www.linkedin.com/in/elisabeth-vonesch' target='_blank'>LinkedIn</a>
   </div>
 </template>
 
@@ -27,6 +27,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #1522db;
 }
 </style>
