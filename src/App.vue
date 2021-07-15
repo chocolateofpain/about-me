@@ -32,6 +32,7 @@ h1 {
 
 .link {
   text-decoration: none;
+  color:#2c3e50;
   
 }
 .link:visited {
@@ -40,6 +41,7 @@ h1 {
 
 .link:hover {
   font-weight: 600;
+  color:#2c3e50;
 }
 
 .container {
