@@ -1,41 +1,27 @@
 <template>
-  <div id="app">
-    <Navigation />
+  <div id="main">
     <div class='card-grid-container'>
-    <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <Card image='berlin.png' title='About me' />
-    <Card image='beach.png' title='CV' />
-    <Card image='metro.png' title='Contact'/>
-    <Card image='palmtree.png' title='Miscellaneous'/>
+    <router-link to="/about"><Card image='berlin.png' title='About me' /></router-link>
+    <router-link to="/cv"><Card image='beach.png' title='CV' /></router-link>
+    <router-link to="/contact"><Card image='metro.png' title='Contact'/></router-link>
+    <router-link to="/miscellaneous"><Card image='palmtree.png' title='Miscellaneous'/></router-link>
     </div>
-    <CV />
-    <Contact />
-    <div id="components-demo">
-</div>
   </div>
 </template>
 
 <script>
-// import HelloWorld from './components/HelloWorld.vue'
-import Card from './components/Card.vue'
-import Contact from './components/Contact.vue'
-import CV from './components/CV.vue'
-import Navigation from './components/Navigation.vue'
+import Card from './Card.vue'
 
 export default {
-  name: 'App',
+  name: 'Main',
   components: {
-    // HelloWorld,
     Card,
-    Contact,
-    CV,
-    Navigation,
   }
 }
 </script>
 
 <style>
-#app {
+#main {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
