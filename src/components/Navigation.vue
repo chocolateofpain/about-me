@@ -35,4 +35,8 @@ export default {
   padding: 30px 20px;
 }
 
+.navigation-container a.router-link-exact-active {
+  font-weight: bold;
+}
+
 </style>

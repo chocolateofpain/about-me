@@ -24,23 +24,6 @@ export default {
   padding: 0 30px 30px 30px;
 }
 
-#nav {
-  padding: 20px;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
-
-#nav a {
-  /* font-weight: bold; */
-  color: #2c3e50;
-  text-decoration: none;
-}
-
-#nav a.router-link-exact-active {
-  color: #4c81c3;
-}
-
 h1 {
   padding: 30px 20px;
   font-size: 2rem;
@@ -49,6 +32,14 @@ h1 {
 
 .link {
   text-decoration: none;
+  
+}
+.link:visited {
+  color:#2c3e50;
+}
+
+.link:hover {
+  font-weight: 600;
 }
 
 .container {
