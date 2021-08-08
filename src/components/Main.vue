@@ -2,7 +2,7 @@
   <div id="main">
     <div class='card-grid-container'>
     <router-link class='link' to="/about"><Card image='berlin.jpg' title='About me' /></router-link>
-    <router-link class='link' to="/cv"><Card image='beach.png' title='CV' /></router-link>
+    <router-link class='link' to="/cv"><Card image='berlin_png.png' title='CV' /></router-link>
     <router-link class='link' to="/contact"><Card image='metro.png' title='Contact'/></router-link>
     <router-link class='link' to="/miscellaneous"><Card image='palmtree.png' title='Miscellaneous'/></router-link>
     </div>
