@@ -1,5 +1,7 @@
 // FILE TO INVESTIGATE VERCEL INTEGRATION
 
+// UPDATE TO SEE IF IT SYNCS
+
 // Create a Chromium browser
 const { chromium } = require("playwright");
 
