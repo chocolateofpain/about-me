@@ -1,5 +1,5 @@
 const nestedHelper1 = () => console.log('nested helper 1')
 
-module.exports {
+module.exports = {
   nestedHelper1
 }
