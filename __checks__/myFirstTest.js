@@ -15,3 +15,13 @@ const assert = require('assert')
 const browser = await playwright.chromium.launch()
 const page = await browser.newPage()
 await page.goto('https://www.google.com/')
+const fs = require('fs')
+const assert = require('assert')
+
+const content = 'test'
+
+fs.writeFileSync('/tempfile', content)
+
+const readFile = await fs.promises.readFile('/tempfile', 'utf8')
+
+assert(readFile === content, 'sync fs and promise api should return same value')
