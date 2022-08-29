@@ -16,7 +16,6 @@ const browser = await playwright.chromium.launch()
 const page = await browser.newPage()
 await page.goto('https://www.google.com/')
 const fs = require('fs')
-const assert = require('assert')
 
 const content = 'test'
 
