@@ -200,6 +200,1622 @@
         "jsesc": "^2.5.1",
         "source-map": "^0.5.0"
       }
+    },
+     "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    }, "@babel/helper-module-imports": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-imports/-/helper-module-imports-7.14.5.tgz",
+      "integrity": "sha1-bRpE32o4yVeqfDEtoHZCnxG0IvM=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5"
+      }
+    },
+    "@babel/helper-module-transforms": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/helper-module-transforms/-/helper-module-transforms-7.14.5.tgz",
+      "integrity": "sha1-feQvENeJtCPrkC69JAMcp3yx4Q4=",
+      "dev": true,
+      "requires": {
+        "@babel/helper-module-imports": "^7.14.5",
+        "@babel/helper-replace-supers": "^7.14.5",
+        "@babel/helper-simple-access": "^7.14.5",
+        "@babel/helper-split-export-declaration": "^7.14.5",
+        "@babel/helper-validator-identifier": "^7.14.5",
+        "@babel/template": "^7.14.5",
+        "@babel/traverse": "^7.14.5",
+        "@babel/types": "^7.14.5"
+      }
+    },
+      "@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
+    },"@babel/generator": {
+      "version": "7.14.5",
+      "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
+      "integrity": "sha1-hI17nwMcrKnQzQrwGwY/Im9S14U=",
+      "dev": true,
+      "requires": {
+        "@babel/types": "^7.14.5",
+        "jsesc": "^2.5.1",
+        "source-map": "^0.5.0"
+      }
     },"@babel/generator": {
       "version": "7.14.5",
       "resolved": "http://artifactory.inf.las1.saucelabs.net:80/artifactory/api/npm/all-npm/@babel/generator/-/generator-7.14.5.tgz",
